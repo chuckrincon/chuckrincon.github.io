@@ -5,8 +5,28 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>hello mundo</title>
 	<link rel="stylesheet" href="">
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 </head>
 <body>
-	<h1>______</h1>
+	<ul id="app"></ul>
 </body>
+<script type="text/javascript">
+	axios.get('https://jsonplaceholder.typicode.com/posts')
+	.then(function (response) {
+		let data = response.data;
+
+		let posts = [];
+
+		data.forEach(post => posts.push(`<li>${post.title}</li>`));
+
+		document.getElementById('app').innerHTML = posts.join('');
+		
+		console.log(response);
+	}).catch(function (error) {
+		console.log(error);
+
+		document.getElementById('app').innerHTML = error;
+	}).finally(function () {
+	});
+</script>
 </html>
