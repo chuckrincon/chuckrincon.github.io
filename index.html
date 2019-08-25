@@ -11,16 +11,24 @@
 	<ul id="app"></ul>
 </body>
 <script type="text/javascript">
-	axios.get('https://jsonplaceholder.typicode.com/posts')
+	axios.get('https://api.phara.shop/v1/products', {
+		headers: {
+			'Accept-Language': 'es',
+		}
+	})
 	.then(function (response) {
-		let data = response.data;
+		let data = response.data.data;
 
-		let posts = [];
+		let products = [];
 
-		data.forEach(post => posts.push(`<li>${post.title}</li>`));
+		data.forEach(product => {
+			if (product.products[0]) {
+				products.push(`<li>${product.products[0].translations[0].name} — <small>(${product.products[0].translations[0].formatted_price})</small></li>`)
+			}
+		});
 
-		document.getElementById('app').innerHTML = posts.join('');
-		
+		document.getElementById('app').innerHTML = products.join('');
+
 		console.log(response);
 	}).catch(function (error) {
 		console.log(error);
