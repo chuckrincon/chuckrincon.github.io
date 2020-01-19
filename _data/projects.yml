@@ -1,0 +1,9 @@
+- name: Carreras Laguna
+  url: https://carrerasmx.com.mx/
+  description: Company dedicated to the organization of sports events and timing services with chips, rental of furniture for athletic races.
+  used:
+    - thing: AWS
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+    - thing: Payments with PayPal

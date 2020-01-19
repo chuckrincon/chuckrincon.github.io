@@ -1,0 +1,13 @@
+languages:
+  - item: Swift
+  - item: Objective-C
+  - item: Javascript (ES6)
+
+frameworks:
+  - item: React Navite
+
+tools:
+  - item: Cocoapods
+  - item: Git & Github
+  - item: Realm
+  - item: Core Data

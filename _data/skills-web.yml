@@ -1,0 +1,27 @@
+languages:
+  - item: PHP
+  - item: Javascript (ES6)
+  - item: HTML
+  - item: CSS/SASS
+  - item: SQL
+
+frameworks:
+  - item: Laravel & Lumen
+  - item: Jekyll
+  - item: Sails Js
+  - item: Adonis Js
+  - item: Svelte
+
+tools:
+  - item: AWS Environments
+  - item: Bash
+  - item: Git & Github
+  - item: Webpack
+  - item: MySQL & Redis & MongoDB
+
+design:
+  - item: Sketch
+  - item: Figma
+  - item: Prototyping
+  - item: Wireframing
+  - item: A/B Testing
