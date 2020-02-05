@@ -1,6 +1,6 @@
-- name: Multiseguros - Agente De Seguros Y De Fianzas S.A. De C.V.
+- name: Multiseguros
   url: http://www.multiseguros.mx
-  description: Mexican company specialized in the insurance business and asset management with a custom policies tracking build in.
+  description: Agente De Seguros Y De Fianzas S.A. De C.V. is Mexican company specialized in the insurance business and asset management with a custom policies tracking build in.
   used:
     - thing: GoDaddy
     - thing: MySQL
@@ -25,18 +25,18 @@
     - thing: Laravel
     - thing: JavaScript
 
-- name: Enlaces - Industriales Y Comerciales De Transporte
+- name: EICT
   url: http://eict.com.mx
-  description: Transportation and logistics services company specialized in providing effective supply chain solutions.
+  description: Enlaces Industriales Y Comerciales De Transporte is a transportation and logistics services company specialized in providing effective supply chain solutions.
   used:
     - thing: GoDaddy
     - thing: MySQL
     - thing: Laravel
     - thing: JavaScript
 
-- name: Asociación De Mujeres Empresarias Del Campo A.C.
+- name: ANMECAC
   url: https://anmecac.com
-  description: Ecommerce for the sale and distribution of products made by rural women producers representing each state in mexico.
+  description: Ecommerce for the sale and distribution of products made by rural women producers representing each state in mexico under the company Asociación De Mujeres Empresarias Del Campo A.C.
   used:
     - thing: GoDaddy
     - thing: MySQL
