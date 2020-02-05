@@ -1,0 +1,134 @@
+- name: Carreras Laguna
+  url: https://carrerasmx.com.mx
+  description: Website dedicated to the organization of sports events and timing services with chips, rental of furniture for athletic races.
+  used:
+    - thing: AWS
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+    - thing: Real Time notifications
+    - thing: PayPal Integration
+
+- name: Duemex
+  url: http://duemex.com.mx
+  description: Website dedicated to the food distribution and marketing, feedstock and tools for restaurants, shops, food trucks and the general market
+  used:
+    - thing: AWS
+    - thing: MySQL
+    - thing: Laravel
+    - thing: Pusher
+    - thing: JavaScript
+    - thing: Real Time Notifications
+
+- name: Milenium Diesel
+  url: http://mileniumdiesel.mx
+  description: Website for the diesel distribution and marketing for the public and private sectors.
+  used:
+    - thing: AWS
+    - thing: MySQL
+    - thing: Laravel
+    - thing: Pusher
+    - thing: JavaScript
+    - thing: Real Time Notifications
+
+- name: Iku - Hearts + Minds
+  url: http://www.iku.mx
+  description: An international learning management system (LMS), focused on increased the students concentration, IQ, emotional intelligence and intellectual development in its different subjects.<br> 
+    This learning management system has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.iku" target="_blank">Android</a> and <a href="https://apps.apple.com/mx/app/iku-hearts-minds/id1451967503" target="_blank">iOS</a>
+    an <a href="https://tienda.ikuamericalatina.com" target="_blank">Ecommerce</a> for the purchase of courses, subscriptions, and more.
+  used:
+    - thing: AWS
+    - thing: API
+    - thing: MySQL
+    - thing: Pusher
+    - thing: Laravel
+    - thing: JavaScript
+    - thing: PayPal Integration
+
+- name: Wash2Go
+  url: http://w2g.mx
+  description: Website for housing car wash request, with the ability to pay by paypal or when the service is done.
+  used:
+    - thing: AWS
+    - thing: MySQL
+    - thing: Pusher
+    - thing: Laravel
+    - thing: JavaScript
+    - thing: PayPal Integration
+    - thing: Real Time Notifications
+    
+- name: Ph@ra - Aliv3 5hirts
+  url: http://phara.shop
+  description: Ecommerce aimed to the selling and distribution of official shirts of all Mexican soccer teams with the augmented reality experience build in the team logo.<br> 
+    This ecommerce has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.t_shirtapp" target="_blank">Android</a> and <a href="https://apps.apple.com/mx/app/ph-ra/id1360061103" target="_blank">iOS</a>
+  used:
+    - thing: AWS
+    - thing: MySQL
+    - thing: Pusher
+    - thing: Laravel
+    - thing: JavaScript
+    - thing: Multilingual
+    - thing: PayPal Integration
+    - thing: Real Time Notifications
+
+- name: Pimentel Consultores Fiscales S.C.
+  url: http://www.pimentelconsultoresfiscales.com
+  description: Website of a firm of accountants and lawyers with a learning management system (LMS) and a custom content management system (CMS) build in.
+  used:
+    - thing: S3
+    - thing: MySQL
+    - thing: Hostinger
+    - thing: Laravel
+    - thing: JavaScript
+    - thing: PayPal Integration
+    - thing: Email Notifications
+
+- name: Vyzva
+  url: https://vyzva.com
+  description: Platform that provides exercise and nutrition programs, a cash prize for the top three places that have shown the most effort, in addition, provides a percentage of each user's subscription to help various causes.Within the same platform, a space is provided to create a competitive community, which users interact with their competitors, to share their experiences, tips and everything they are doing to look and feel better.
+  used:
+    - thing: S3
+    - thing: AWS
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+    - thing: Multilingual
+    - thing: Real Time Notifications
+    - thing: PayPal Integration
+    - thing: In-App Purchase Integration
+
+- name: Dexdent
+  url: http://dexdent.com
+  description: Custom customer relationship management (CRM) platform for the control of patients, dental history, instant x-rays images and scheduling appointments.
+    This platform has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.dentist_app" target="_blank">Android</a> and <a href="https://apps.apple.com/us/app/dexdent/id1330227222" target="_blank">iOS</a>
+  used:
+    - thing: GoDaddy
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+
+- name: Huizarte
+  url: http://huizarte.com
+  description: Ecommerce of crafts created to promote the craftsmanship guild of Mexico, you will find all kinds of typical crafts in an open platform to directly promote their products.<br>This ecommerce has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.citi.handcrafts_android" target="_blank">Android</a> and <a href="https://apps.apple.com/us/app/huizarte/id1332101266" target="_blank">iOS</a>
+  used:
+    - thing: AWS
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+    - thing: Multilingual
+    - thing: PayPal Integration
+    - thing: Real Time Notifications
+    
+- name: Museo Del Palacio Nacional
+  url: http://museodepalacionacional.org
+  description: 3D representation of the National Palace and animation of the Mural "Epopeya del Pueblo Mexicano" by Diego Rivera using Augmented Reality.
+  used:
+    - thing: GoDaddy
+    - thing: WordPress
+    - thing: JavaScript
+
+- name: GH Consultores
+  url: http://ghconsultores.mx
+  description: Website dedicated the human capital management.
+  used:
+    - thing: JavaScript

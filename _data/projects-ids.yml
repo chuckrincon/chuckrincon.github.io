@@ -1,0 +1,53 @@
+- name: Multiseguros - Agente De Seguros Y De Fianzas S.A. De C.V.
+  url: http://www.multiseguros.mx
+  description: Mexican company specialized in the insurance business and asset management with a custom policies tracking build in.
+  used:
+    - thing: GoDaddy
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+
+- name: Laggourmett
+  url: http://laggourmett.com
+  description: Ecommerce for the sale and distribution of handmade sauces, jams, chutneys and custom seasoning products.
+  used:
+    - thing: GoDaddy
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+
+- name: Best Profile
+  url: http://bestprofile.com.mx
+  description: Website dedicated the human capital management with a custom digital recruitment process and tracking build in.
+  used:
+    - thing: GoDaddy
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+
+- name: Enlaces - Industriales Y Comerciales De Transporte
+  url: http://eict.com.mx
+  description: Transportation and logistics services company specialized in providing effective supply chain solutions.
+  used:
+    - thing: GoDaddy
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+
+- name: Asociación De Mujeres Empresarias Del Campo A.C.
+  url: https://anmecac.com
+  description: Ecommerce for the sale and distribution of products made by rural women producers representing each state in mexico.
+  used:
+    - thing: GoDaddy
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+
+- name: Como Rey
+  url: https://comorey.com
+  description: Ecommerce for the sale and distribution of razors and other personal grooming products on a monthly basis.
+  used:
+    - thing: Amazon
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
