@@ -100,7 +100,7 @@
 - name: Dexdent
   url: http://dexdent.com
   description: Custom customer relationship management (CRM) platform for the control of patients, dental history, instant x-rays images and scheduling appointments.
-    This platform has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.dentist_app" target="_blank" rel="noreferrer">Android</a> and <a href="https://apps.apple.com/us/app/dexdent/id1330227222" target="_blank">iOS</a>
+    This platform has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.dentist_app" target="_blank" rel="noreferrer">Android</a> and <a href="https://apps.apple.com/us/app/dexdent/id1330227222" target="_blank" rel="noreferrer">iOS</a>
   used:
     - thing: GoDaddy
     - thing: MySQL
