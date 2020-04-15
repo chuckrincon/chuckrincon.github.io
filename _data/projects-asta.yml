@@ -34,8 +34,8 @@
 - name: Iku - Hearts + Minds
   url: http://www.iku.mx
   description: An international learning management system (LMS), focused on increased the students concentration, IQ, emotional intelligence and intellectual development in its different subjects.<br> 
-    This learning management system has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.iku" target="_blank">Android</a> and <a href="https://apps.apple.com/mx/app/iku-hearts-minds/id1451967503" target="_blank">iOS</a>
-    an <a href="https://tienda.ikuamericalatina.com" target="_blank">Ecommerce</a> for the purchase of courses, subscriptions, and more.
+    This learning management system has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.iku" target="_blank" rel="noreferrer">Android</a> and <a href="https://apps.apple.com/mx/app/iku-hearts-minds/id1451967503" target="_blank" rel="noreferrer">iOS</a>
+    an <a href="https://tienda.ikuamericalatina.com" target="_blank" rel="noreferrer">Ecommerce</a> for the purchase of courses, subscriptions, and more.
   used:
     - thing: AWS
     - thing: API
@@ -60,7 +60,7 @@
 - name: Ph@ra - Aliv3 5hirts
   url: http://phara.shop
   description: Ecommerce aimed to the selling and distribution of official shirts of all Mexican soccer teams with the augmented reality experience build in the team logo.<br> 
-    This ecommerce has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.t_shirtapp" target="_blank">Android</a> and <a href="https://apps.apple.com/mx/app/ph-ra/id1360061103" target="_blank">iOS</a>
+    This ecommerce has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.t_shirtapp" target="_blank" rel="noreferrer">Android</a> and <a href="https://apps.apple.com/mx/app/ph-ra/id1360061103" target="_blank" rel="noreferrer">iOS</a>
   used:
     - thing: AWS
     - thing: MySQL
@@ -100,7 +100,7 @@
 - name: Dexdent
   url: http://dexdent.com
   description: Custom customer relationship management (CRM) platform for the control of patients, dental history, instant x-rays images and scheduling appointments.
-    This platform has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.dentist_app" target="_blank">Android</a> and <a href="https://apps.apple.com/us/app/dexdent/id1330227222" target="_blank">iOS</a>
+    This platform has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.asta.dentist_app" target="_blank" rel="noreferrer">Android</a> and <a href="https://apps.apple.com/us/app/dexdent/id1330227222" target="_blank">iOS</a>
   used:
     - thing: GoDaddy
     - thing: MySQL
@@ -109,7 +109,7 @@
 
 - name: Huizarte
   url: http://huizarte.com
-  description: Ecommerce of crafts created to promote the craftsmanship guild of Mexico, you will find all kinds of typical crafts in an open platform to directly promote their products.<br>This ecommerce has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.citi.handcrafts_android" target="_blank">Android</a> and <a href="https://apps.apple.com/us/app/huizarte/id1332101266" target="_blank">iOS</a>
+  description: Ecommerce of crafts created to promote the craftsmanship guild of Mexico, you will find all kinds of typical crafts in an open platform to directly promote their products.<br>This ecommerce has a mobile application for <a href="https://play.google.com/store/apps/details?id=com.citi.handcrafts_android" target="_blank" rel="noreferrer">Android</a> and <a href="https://apps.apple.com/us/app/huizarte/id1332101266" target="_blank" rel="noreferrer">iOS</a>
   used:
     - thing: AWS
     - thing: MySQL
