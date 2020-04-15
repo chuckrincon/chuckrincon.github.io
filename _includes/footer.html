@@ -2,13 +2,13 @@
   <div class="footer__copyright">
     <div class="top">
       <span>
-        Thanks to <a href="https://brittanychiang.com/" target="_blank">Brittany Chiang</a>
+        Thanks to <a href="https://brittanychiang.com/" target="_blank" rel="noreferrer">Brittany Chiang</a>
       </span>
     </div>
   </div>
   <div class="footer__links">
     {% for link in site.social %}
-    <a href="{{link.url}}" target="_blank" title="{{link.title}}">
+    <a href="{{link.url}}" target="_blank" rel="noreferrer" title="{{link.title}}">
       <span class="text">{{link.title}}</span>
       <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
     </a>
