@@ -6,7 +6,7 @@
       <div class="job">
         <div class="time-place">
           <div class="job__company">
-            <a href="{{job.url}}" target="_blank">{{job.company}}</a>
+            <a href="{{job.url}}" target="_blank" rel="noreferrer">{{job.company}}</a>
           </div>
           <div class="job__time">{{job.time}}</div>
         </div>
@@ -15,6 +15,6 @@
       {% endfor %}
     </div>
 
-    <a href="{{site.resume}}" target="_blank" class="arrow-link">Complete resume</a>
+    <a href="{{site.resume}}" target="_blank" rel="noreferrer" class="arrow-link">Complete resume</a>
   </div>
 </section>
