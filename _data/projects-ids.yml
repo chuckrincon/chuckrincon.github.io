@@ -1,3 +1,12 @@
+- name: FinKpital
+  url: https://www.finkpital.mx
+  description: Mexican company specialized in the financing business
+  used:
+    - thing: GoDaddy
+    - thing: MySQL
+    - thing: Laravel
+    - thing: JavaScript
+    
 - name: Multiseguros
   url: http://www.multiseguros.mx
   description: Agente De Seguros Y De Fianzas S.A. De C.V. is Mexican company specialized in the insurance business and asset management with a custom policies tracking build in.
