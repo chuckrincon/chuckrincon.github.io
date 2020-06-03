@@ -1,16 +1,16 @@
-- company: Asta Software
-  url: http://asta.com.mx
-  time: 2018 - Present
-  position: Software Engineer
-
 - company: Imagen Digital Studio
   url: https://imagendigitalstudio.com
   time: 2017 - Present
   position: Freelance Web Developer
+  
+- company: Asta Software
+  url: http://asta.com.mx
+  time: 2019 - 2020
+  position: Software Engineer
 
 - company: Asta Software
   url: http://asta.com.mx
-  time: 2017 - 2018
+  time: 2018 - 2019
   position: AWS Cloud Architect
 
 - company: Asta Software
