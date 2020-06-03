@@ -1,16 +1,13 @@
 languages:
   - item: PHP
   - item: Javascript (ES6)
-  - item: HTML
-  - item: CSS/SASS
   - item: SQL
 
 frameworks:
   - item: Laravel & Lumen
-  - item: Jekyll
-  - item: Sails Js
-  - item: Adonis Js
-  - item: Svelte
+  - item: React
+  - item: Vue.js
+  - item: Next.js
 
 tools:
   - item: AWS Environments
